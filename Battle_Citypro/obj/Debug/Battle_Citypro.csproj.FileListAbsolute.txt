@@ -1,0 +1,11 @@
+E:\instrument\c++\game\Battle_Citypro\bin\Debug\Battle_Citypro.exe.config
+E:\instrument\c++\game\Battle_Citypro\bin\Debug\Battle_Citypro.exe
+E:\instrument\c++\game\Battle_Citypro\bin\Debug\Battle_Citypro.pdb
+E:\instrument\c++\game\Battle_Citypro\obj\Debug\Battle_Citypro.csproj.AssemblyReference.cache
+E:\instrument\c++\game\Battle_Citypro\obj\Debug\Battle_Citypro.csproj.SuggestedBindingRedirects.cache
+E:\instrument\c++\game\Battle_Citypro\obj\Debug\Battle_Citypro.Properties.Resources.resources
+E:\instrument\c++\game\Battle_Citypro\obj\Debug\Battle_Citypro.csproj.GenerateResource.cache
+E:\instrument\c++\game\Battle_Citypro\obj\Debug\Battle_Citypro.csproj.CoreCompileInputs.cache
+E:\instrument\c++\game\Battle_Citypro\obj\Debug\Battle_Citypro.exe
+E:\instrument\c++\game\Battle_Citypro\obj\Debug\Battle_Citypro.pdb
+E:\instrument\c++\game\Battle_Citypro\obj\Debug\Battle_Citypro.Form1.resources
